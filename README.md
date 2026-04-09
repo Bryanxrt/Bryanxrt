@@ -1,12 +1,6 @@
 <h1 align="center">Oi  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Eu sou Igor Brian Braga Dias</h1>
 <h3 align="center">Desenvolvedor Full Stack em Formação</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Bryanxrt">
-    <img src="https://komarev.com/ghpvc/?username=Bryanxrt&label=Profile%20views&color=00FFFF&style=flat-square" alt="Bryanxrt's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 Sobre mim
