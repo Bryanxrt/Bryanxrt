@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Igor Brian Braga Dias</h1>
+<h1 align="center">Oi <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">Eu sou Igor Brian Braga Dias</h1>
 <h3 align="center">Desenvolvedor Full Stack em Formação</h3>
 
 <p align="center">
@@ -9,14 +9,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## 📌 Sobre mim
 - 💻 Estou trabalhando atualmente em
 - Desenvolvendo projetos em Java, com foco em lógica de programação e Programação Orientada a Objetos (POO).
 - 🌱 Estou aprendendo atualmente
 - Java, Programação Orientada a Objetos, Banco de Dados e fundamentos de Engenharia de Software.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 Estatísticas do GitHub
 <p align="center">
   <a href="https://github.com/Bryanxrt">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bryanxrt&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Bryanxrt's GitHub Stats" />
@@ -45,7 +45,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## 🔗 Conecte-se Comigo
 <p align="center"><a href="https://www.linkedin.com/in/igorbrian/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:igorbrian17@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
