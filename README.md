@@ -1,4 +1,4 @@
-<h1 align="center">Oi <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px">Eu sou Igor Brian Braga Dias</h1>
+<h1 align="center">Oi  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Eu sou Igor Brian Braga Dias</h1>
 <h3 align="center">Desenvolvedor Full Stack em Formação</h3>
 
 <p align="center">
