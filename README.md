@@ -12,16 +12,16 @@
 
 ---
 
-About
+## About
 
-- 🎓 Software Engineering student at SERRATEC
+- 🎓 Software Engineering student
 - 📍 São José do Vale do Rio Preto, RJ — Brazil
 - 💻 Building full stack projects with Java, Spring Boot & React
 - 🎯 Goal: hired as a backend developer
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,spring,react,html,css,postgresql,mysql,git,vscode,idea&theme=dark" />
