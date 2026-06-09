@@ -12,7 +12,7 @@
 
 ---
 
-## About
+About
 
 - 🎓 Software Engineering student at SERRATEC
 - 📍 São José do Vale do Rio Preto, RJ — Brazil
@@ -21,7 +21,6 @@
 
 ---
 
-## Tech Stack
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -56,20 +55,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-  Estudante de Engenharia de Software na SERRATEC, focado em backend com <strong>Java & Spring Boot</strong>.<br>
+  Estudante de Engenharia de Software, atualmente cursando Full Stack na SERRATEC, focado em backend com <strong>Java & Spring Boot</strong>.<br>
   Construindo projetos full stack e buscando minha primeira oportunidade como desenvolvedor.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java · JavaScript
+  ⚡ Linguagens: Java · JavaScript
 </p>
 
 <p align="left">
-  💼 Ferramentas: Spring Boot · React · PostgreSQL · Git
+  🛠️ Ferramentas: Spring Boot · React · PostgreSQL · Git
 </p>
 
 <p align="left">
-  💌 Entre em contato: ⤵️
+  📬 Entre em contato: ⤵️
 </p>
 
 <p align="left">
