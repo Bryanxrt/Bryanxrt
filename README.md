@@ -1,54 +1,82 @@
-<h1 align="center">Oi  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Eu sou Igor Brian Braga Dias</h1>
-<h3 align="center">Desenvolvedor Full Stack em Formação</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-## 📌 Sobre mim
-- 💻 Estou trabalhando atualmente em
-- Desenvolvendo projetos em Java, com foco em lógica de programação e Programação Orientada a Objetos (POO).
-- 🌱 Estou aprendendo atualmente
-- Java, Programação Orientada a Objetos, Banco de Dados e fundamentos de Engenharia de Software.
-
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <a href="https://github.com/Bryanxrt">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bryanxrt&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Bryanxrt's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Bryanxrt&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Bryanxrt's GitHub Streak" width="49%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/Bryanxrt">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryanxrt&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Conecte-se Comigo
-<p align="center"><a href="https://www.linkedin.com/in/igorbrian/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:igorbrian17@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+
+# Igor Brian Braga Dias
+### Full Stack Developer in Training
+**Backend-focused · Java & Spring Boot · React**
+
+<br/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFyZWM2ajF4Z2hvbjZkZDY2dWlvYzRxbTg2Njk3bXFhYnhyd3ZqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R56kct9a9wrpSmqNDj/giphy.gif" width="520px" />
+
 </div>
 
+---
+
+## About
+
+- 🎓 Software Engineering student at SERRATEC
+- 📍 São José do Vale do Rio Preto, RJ — Brazil
+- 💻 Building full stack projects with Java, Spring Boot & React
+- 🎯 Goal: hired as a backend developer
+
+---
+
+## Tech Stack
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,spring,react,html,css,postgresql,mysql,git,vscode,idea&theme=dark" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bryanxrt&layout=compact&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&border_radius=6" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryanxrt&langs_count=6&layout=compact&bg_color=0d0d0d&title_color=00FF41&text_color=ffffff&border_color=00FF41&border_radius=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Bryanxrt&theme=dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&border=00FF41" />
+</p>
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryanxrt/Bryanxrt/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryanxrt/Bryanxrt/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Bryanxrt/Bryanxrt/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+<p align="left">
+  Estudante de Engenharia de Software na SERRATEC, focado em backend com <strong>Java & Spring Boot</strong>.<br>
+  Construindo projetos full stack e buscando minha primeira oportunidade como desenvolvedor.
+</p>
+
+<p align="left">
+  🦄 Linguagens: Java · JavaScript
+</p>
+
+<p align="left">
+  💼 Ferramentas: Spring Boot · React · PostgreSQL · Git
+</p>
+
+<p align="left">
+  💌 Entre em contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:igorbrian17@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/igorbrian/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
